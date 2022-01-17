@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Inter;
+}
+@font-face {
+  font-family: Inter;
+  src: url(./inter/Inter-Regular.ttf);
+} 
+@font-face {
+  font-family: RobotoSlab-Regular_;
+  src: url(./roboto/RobotoSlab-Regular.ttf);
+}
+a {
+  text-decoration: none;
+}
+/* override Bootstrap form focus 
+.form-control:focus {
+  border-color: #9688b1 !important;
+  box-shadow: 0 0 0 0.25rem rgba(236, 226, 255, 0.32) !important;
+}*/
+
+
+
