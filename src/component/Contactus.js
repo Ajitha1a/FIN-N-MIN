@@ -97,7 +97,7 @@ var text=document.getElementById('textmessage');
   }
   return (
     <div className='contact'>
-      <h2 className='heading' style={{textAlign: 'center', marginBottom: '20px'}}>Contact Us</h2>
+      <h2 className='heading' style={{textAlign: 'center', marginBottom: '20px'}}>Con  tact Us</h2>
       <div className='contactRow'>
           <form>
             <div className='row-align-start'>
